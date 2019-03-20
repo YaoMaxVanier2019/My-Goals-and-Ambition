@@ -1,5 +1,4 @@
-# READ ME
-My-Goals-and-Ambition
+# My-Goals-and-Ambitions
 
 A description of my ambition in the world of CS or Engineering.
 
